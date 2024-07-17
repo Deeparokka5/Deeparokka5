@@ -10,17 +10,24 @@
 
 - 📫 How to reach me **deeparokka98@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeparokka5&show_icons=true&locale=en&layout=compact" alt="deeparokka5" /></p>
+<div>
+  <h3>My GitHub Stats</h3>
+    <a href="https://github.com/deeparokka5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbabina&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&hide_progress=true" alt="Top Languages" /></a><br>
+    <a href="http://www.github.com/bbabina"><img src="https://github-readme-stats.vercel.app/api?username=bbabina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bbabina's GitHub stats" /></a>
+    <a href="http://www.github.com/bbabina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bbabina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </div>
+  
+### Connect with me 🤝
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeparokka5&show_icons=true&locale=en" alt="deeparokka5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeparokka5&" alt="deeparokka5" /></p>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepa-rokka-chhetri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepa-rokka-chhetri/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepa-rokka-chhetri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepa-rokka-chhetri/" height="30" width="40" /></a>
 </p>
+
+<!-- [![Website](https://img.shields.io/website?label=bbabina&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.bbabina.com.np) -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=bbabina&style=flat-square)
+
+
 
 
