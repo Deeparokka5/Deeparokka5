@@ -2,8 +2,7 @@
 
 >I am a machine learning and data analytics enthusiast with a passion for solving problems and continuously learning.
 
-<img align="right" alt="coding" width="200" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeparokka5&label=Profile%20views&color=0e75b6&style=flat" alt="deeparokka5" /> </p>
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
 
 - 🔭 I’m currently **learning Machine Learning.**
 
