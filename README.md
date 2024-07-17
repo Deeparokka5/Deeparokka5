@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Deepa Rokka Chhetri 💻</h1>
-<h3 align="center">I am a machine learning and data analytics enthusiast with a passion for solving problems and continuously learning.</h3>
+### Hey👋, I'm Deepa Rokka Chhetri!
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
+>I am a machine learning and data analytics enthusiast with a passion for solving problems and continuously learning.
+
+<img align="right" alt="coding" width="200" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeparokka5&label=Profile%20views&color=0e75b6&style=flat" alt="deeparokka5" /> </p>
 
 - 🔭 I’m currently **learning Machine Learning.**
@@ -13,9 +14,9 @@
 
 <div>
   <h3>My GitHub Stats</h3>
-    <a href="https://github.com/deeparokka5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbabina&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&hide_progress=true" alt="Top Languages" /></a><br>
-    <a href="http://www.github.com/bbabina"><img src="https://github-readme-stats.vercel.app/api?username=bbabina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bbabina's GitHub stats" /></a>
-    <a href="http://www.github.com/bbabina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bbabina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="https://github.com/Deeparokka5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbabina&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&hide_progress=true" alt="Top Languages" /></a><br>
+    <a href="http://www.github.com/Deeparokka5"><img src="https://github-readme-stats.vercel.app/api?username=Deeparokka5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Deeparokka5 GitHub stats" /></a>
+    <a href="http://www.github.com/Deeparokka5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeparokka5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </div>
   
 ### Connect with me 🤝
