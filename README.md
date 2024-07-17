@@ -10,7 +10,6 @@ I am a machine learning and data analytics enthusiast with a passion for solving
 
 - 📫 How to reach me **deeparokka98@gmail.com**
 
-
 <div>
   <h3>My GitHub Stats</h3>
     <a href="https://github.com/Deeparokka5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeparokka5&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&hide_progress=true" alt="Top Languages" /></a><br>
