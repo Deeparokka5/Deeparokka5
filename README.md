@@ -1,6 +1,6 @@
 ### Hey👋, I'm Deepa Rokka Chhetri!
 
-I am a machine learning and data analytics enthusiast with a passion for solving problems and continuously learning.
+I am a machine learning and data science enthusiast with a passion for solving problems and continuously learning.
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
